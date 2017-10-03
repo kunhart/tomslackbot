@@ -20,7 +20,6 @@ module.exports = function(robot) {
    	 return msg.send("You can ask me: \n" + 
    	 	"What is the population of (country)\n" + 
    	 	"@Me Which country has the highest population\n" + 
-   	 	"@Me Give me a random country population\n" + 
    	 	"Have fun!");
    	});
 
